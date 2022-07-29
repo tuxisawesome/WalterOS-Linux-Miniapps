@@ -1,0 +1,1 @@
+print("Do 'r <installed name>/listapps' to see all the apps.")

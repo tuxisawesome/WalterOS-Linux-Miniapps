@@ -1,0 +1,5 @@
+print("")
+print("WalterOS-Linux-Miniapps is installed.")
+print("A list of the Miniapps can be gotten as follows:")
+print("r <installed name>/listapps")
+print("")
