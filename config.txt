@@ -1,3 +1,2 @@
 tuxisawesome
 WalterOS-Linux-Miniapps
-0.2
