@@ -1,2 +1,3 @@
 import os
-print(os.system("date"))
+def run():
+    print(os.system("date"))
